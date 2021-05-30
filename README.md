@@ -14,6 +14,8 @@ markdown 的轻量化特性，使您可以专注于论文内容而不用担心�
 
 [论文样式预览](Supplemental/essay-template.pdf)
 
+![天津大学本科毕业论文封面](image/cover_1.jpg)
+
 ### 封面，摘要和关键词
 
 | ![sample-essay_1](https://gitee.com/Keldos-Li/picture/raw/master/img/sample-essay_1.png) | ![sample-essay_2](https://gitee.com/Keldos-Li/picture/raw/master/img/sample-essay_2.png) |

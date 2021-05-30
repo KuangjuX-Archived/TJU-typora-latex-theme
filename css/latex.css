@@ -10,9 +10,11 @@ body{
 }
 
 /* 正文区基本属性，参照wordTeX模板设置字体大小*/
+
 #write {
-    font-family: "Latin Modern Roman", Times, 宋体-简, "Source Han Serif CN", serif; 
-    font-size: 9.5pt; /* 字体大小 */
+    font-family: "Latin Modern Roman", Times, 宋体-简, "Source Han Serif CN", serif;
+    /*天津大学论文需要使用小四号(12pt)*/ 
+    font-size: 12pt; /* 字体大小 */
     max-width: 21cm; /* A4标准宽度 */
     background-color: white;
   /* column-count: 2;
@@ -104,34 +106,33 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 h1 {
-  font-family: "LMRoman10-Bold", 华文黑体Bold;
+  font-family: "Times New Roman", 华文黑体Bold;
   font-weight: bold;
   text-align: center;
   column-span: all;
-  font-size: 18pt;
+  font-size: 16pt;
 }
 h2 {
-  font-family: "LMRoman10-Bold", 方正公文黑体; 
-  text-align: center;
+  font-family: "Times New Roman", 方正公文黑体; 
   font-size: 14pt;
 }
 h3 {
-  font-family: "LMRoman10-Bold", 方正公文黑体;
-  font-size: 12pt;
+  font-family: "Times New Roman", 方正公文黑体;
+  font-size: 14pt;
   line-height: 12pt;
 }
 h4 {
-  font-family: "LMRoman10-Bold", 华文粗楷-SC;
-  font-size: 10pt;
+  font-family: "Times New Roman", 华文粗楷-SC;
+  font-size: 12pt;
   line-height: 8pt;
 }
 h5 {
-  font-family: "LMRoman10-Bold", 方正公文仿宋; 
+  font-family: "Times New Roman", 方正公文仿宋; 
   font-size: 10pt;
   line-height: 10pt;
 }
 h6 {
-  font-family: "LMRoman10-Bold", 方正公文仿宋; 
+  font-family: "Times New Roman", 方正公文仿宋; 
   font-size: 9.5pt;
   line-height: 10pt;
 }

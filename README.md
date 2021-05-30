@@ -1,5 +1,6 @@
 ![cover](./Supplemental/cover.png)
-# Typora伪装LaTeX中文样式主题
+
+# 使用Typora代替LaTex编写论文
 
 本项目的初衷是为了简化中国大陆本科生**小型通识课论文**（或**实小型验报告**）撰写的负担。这里基本采用了浙江大学要求的格式（字体较小，页边距较小），但大部分同学都可以自行在 CSS 中修改适合自己学校的格式。
 
@@ -11,12 +12,14 @@ If you are not studying in China, please DO NOT use this theme. Intead, you coul
 
 ## 预览
 
-（较完整的论文预览见这里: [点我😀](https://blog.keldos.me/2021/05/md-latex-template/)；如果GitHub中的图像加载不出来，您也可以查看[我博客上的说明](https://blog.keldos.me/2021/05/typora-latex-css/)。）
+[封面样式预览](Supplemental/tju-cover-template.pd)
+
+[论文样式预览](Supplemental/essay-template.pdf)
 
 ### 封面，摘要和关键词
 
-| ![sample-essay_1](https://gitee.com/Keldos-Li/picture/raw/master/img/sample-essay_1.png)|![sample-essay_2](https://gitee.com/Keldos-Li/picture/raw/master/img/sample-essay_2.png)|
-| :----: | :----: |
+| ![sample-essay_1](https://gitee.com/Keldos-Li/picture/raw/master/img/sample-essay_1.png) | ![sample-essay_2](https://gitee.com/Keldos-Li/picture/raw/master/img/sample-essay_2.png) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
 
 ### 预览与编写
 
@@ -274,7 +277,7 @@ Markdown 广泛用于博客、即时消息、在线论坛、协作软件、文�
 
 该样式只能作为**轻量级**排版输出，如果您需要更复杂的排版，请使用 LaTeX 或 Word 进行排版。
 
-*   如果您是zjuer：[指南](https://github.com/TheNetAdmin/zjuthesis)
+*   [天津大学LaTex模板](https://github.com/xnth97/TJUThesisLatexTemplate)
 
 ## 反馈
 

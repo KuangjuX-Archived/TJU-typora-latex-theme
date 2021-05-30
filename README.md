@@ -281,10 +281,8 @@ Markdown 广泛用于博客、即时消息、在线论坛、协作软件、文�
 
 ## 反馈
 
-*   在 GitHub Issues [报告Bug](https://github.com/Keldos-Li/typora-latex-theme/issues/new?labels=bug)。
-*   在 GitHub [请求新的功能](https://github.com/Keldos-Li/typora-latex-theme/issues/new?labels=Feature+Request)。
-*   给仓库Star之后联系[我本人](mailto:i@keldos.me)。
-*   Fork之后PR。
+- 为该仓库提issue或者提出PR
+- 联系本人
 
 ## 说明
 

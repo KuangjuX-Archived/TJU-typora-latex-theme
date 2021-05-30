@@ -2,13 +2,11 @@
 
 # 使用Typora代替LaTex编写论文
 
-本项目的初衷是为了简化中国大陆本科生**小型通识课论文**（或**实小型验报告**）撰写的负担。这里基本采用了浙江大学要求的格式（字体较小，页边距较小），但大部分同学都可以自行在 CSS 中修改适合自己学校的格式。
+本项目的初衷是为了简化中国大陆本科生**小型通识课论文**（或**实小型验报告**）撰写的负担。我已将其修改为**天津大学论文模板**所需样式，但大部分同学都可以自行在 CSS 中修改适合自己学校的格式。
 
 markdown 的轻量化特性，使您可以专注于论文内容而不用担心格式。书写时仅通过简单的标记，并通过替换样例模板中的个人信息，您就可以输出媲美卷王由LaTeX​排版的精美论文与报告。
 
 这是一个 Typora 的 markdown 主题样式，该主题理论上适用于所有平台，CSS 也适用于部分其他编辑器。macOS 和 Windows 中的个别特性可能不同。
-
-If you are not studying in China, please DO NOT use this theme. Intead, you could check another theme: [Paper – A typora theme using latex fonts to be used in academic work](https://theme.typora.io/theme/paper/).
 
 ## 预览
 

@@ -10,7 +10,7 @@ body{
   /* 正文区基本属性，参照wordTeX模板设置字体大小*/
   #write {
       font-family: "Latin Modern Roman","Latin Modern Roman 10", Times, 新宋体, 宋体-简, "Source Han Serif CN", serif; 
-      font-size: 9.5pt; /* 字体大小 */
+      font-size: 12pt; /* 字体大小 */
       max-width: 21cm; /* A4标准宽度 */
       background-color: white;
     /* column-count: 2;
@@ -102,33 +102,33 @@ body{
   }
   
   #write h1 {
-    font-family: "Latin Modern Roman 10", 方正公文黑体, 华文黑体Bold;
+    font-family: "Times New Roman", 方正公文黑体, 华文黑体Bold;
     font-weight: bold;
     text-align: center;
     column-span: all;
     font-size: 18pt;
   }
   #write h2 {
-    font-family: "Latin Modern Roman 10", 方正公文黑体; 
+    font-family: "Times New Roman", 方正公文黑体; 
     font-size: 14pt;
   }
   #write h3 {
-    font-family: "Latin Modern Roman 10", 方正公文黑体;
+    font-family: "Times New Roman", 方正公文黑体;
     font-size: 12pt;
     line-height: 12pt;
   }
   #write h4 {
-    font-family: "Latin Modern Roman 10", 方正公文楷体;
-    font-size: 10pt;
-    line-height: 8pt;
+    font-family: "Times New Roman", 方正公文楷体;
+    font-size: 12pt;
+    line-height: 12pt;
   }
   #write h5 {
-    font-family: "Latin Modern Roman 10", 方正公文仿宋; 
+    font-family: "Times New Roman", 方正公文仿宋; 
     font-size: 10pt;
     line-height: 10pt;
   }
   #write h6 {
-    font-family: "Latin Modern Roman 10", 方正公文仿宋; 
+    font-family: "Times New Roman", 方正公文仿宋; 
     font-size: 9.5pt;
     line-height: 10pt;
   }

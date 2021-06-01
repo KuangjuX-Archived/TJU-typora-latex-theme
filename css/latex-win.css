@@ -9,7 +9,8 @@ body{
   
   /* 正文区基本属性，参照wordTeX模板设置字体大小*/
   #write {
-      font-family: "Latin Modern Roman","Latin Modern Roman 10", Times, 新宋体, 宋体-简, "Source Han Serif CN", serif; 
+      /* font-family: "Latin Modern Roman","Latin Modern Roman 10", Times, 新宋体, 宋体-简, "Source Han Serif CN", serif;  */
+      font-family: "Times New Roman", 宋体-简;
       font-size: 12pt; /* 字体大小 */
       max-width: 21cm; /* A4标准宽度 */
       background-color: white;

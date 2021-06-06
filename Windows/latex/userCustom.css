@@ -10,13 +10,13 @@
     /* == 字体设置 == */
     
         /* 基准字体 */
-        --base-Latin-font: "Times New Roman"; /* 备选：Times, "Times New Roman" */
+        --base-Latin-font: "Times New Roman", Times; /* 备选：Times, "Times New Roman" */
         --base-Chinese-font: 宋体-简, 华文宋体;
         --base-font-size: 12pt; /* 小四字体 */
     
         /* 引言字体 */
-        --quote-font: "Latin Modern Roman", "Latin Modern Roman 10", Times, "Times New Roman", 华文仿宋;
-        --quote-font-size: 13pt;
+        --quote-font: "Times New Roman", Times, "Latin Modern Roman", "Latin Modern Roman 10", 华文仿宋;
+        --quote-font-size: 12.5pt;
     
         /* 代码字体（代码中的中文会调用ui-font） */
         --code-font: "Latin Modern Mono", "Latin Modern Mono 10";
